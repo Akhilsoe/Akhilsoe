@@ -5,6 +5,5 @@
 
 - 🌱 I’m currently learning tailwindCSS and Figma
 - 👯 I’m looking to collaborate on Web development projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about HTML, C++
 - 📫 How to reach me: akhilbr10@gmail.com
