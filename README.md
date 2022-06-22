@@ -3,5 +3,5 @@
 
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Web development projects
-- 💬 Ask me about HTML, CSS, C++
+- 💬 Ask me about HTML, CSS, C++, Bootstrap, Tailwind 
 - 📫 How to reach me: akhilbr10@gmail.com
